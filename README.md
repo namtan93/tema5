@@ -7,3 +7,4 @@ Et enkelt og greit starterprosjekt for å lage React-apper uten å bruke create-
 + Kjør `npm install` for å installere alle avhengigheter.
 + Kjør `npm start` for å sette i gang en lokal utviklingsserver med utviklingsbygg.
 + Kjør `npm run build` for å lage et produksjonsklart bygg. Det ferdige bygget legges i ./build om ikke du endrer konfigurasjonen.# Tema5-Api-mot-Frontend
+# Tema5-Api-mot-Frontend
